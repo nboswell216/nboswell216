@@ -1,3 +1,57 @@
+# Nick Boswell's Portfolio
+Welcome to my GitHub portfolio! Here I showcase my skills in Robotic Process Automation (RPA), Software Development and Data Analysis, demonstrating my passion for solving problems through efficient automation and data-driven insights.
+
+## About Me
+
+I am a lead software developer transitioning into a career in data science. I am also an automation enthusiast with a background in UiPath Power Automate, and Slack Apps.\
+**Skills:** Python, R, SQL, UiPath, Power Automate, Excel, Tableau/Power BI, Dynamics 365, C#, Javascript/Typescript.\
+**Currently seeking:** Opportunities to contribute my automation and data analysis expertise for companies that develop innovative products to improve athlete performance - shoes, nutrition, gear, technical wear, etc.
+
+## How to Navigate My Portfolio
+
+Each project has its own repository with a detailed README explaining goals, methods, results, and code examples.
+Project READMEs follow consistent formatting for easy scanning.
+
+## Key Projects
+Check back often - I am always adding more content!
+<!--
+RPA
+
+[Project 1 Name] (Link to Project Repo)
+
+Brief description: 1-2 sentences explaining the problem the automation solved.
+Technologies: UiPath, Blue Prism, Python, etc.
+Outcome: Key results achieved (e.g., hours saved, process efficiency improved)
+[Project 2 Name] (Link to Project Repo)
+
+... (Follow similar format as Project 1)
+Data Analysis
+
+[Project 1 Name] (Link to Project Repo)
+
+Problem addressed: Business question or issue tackled by your analysis.
+Methods: Pandas, NumPy, Scikit-learn, visualization libraries, etc.
+Insights: Key findings and their potential implications
+[Project 2 Name] (Link to Project Repo)
+
+... (Follow similar format as Project 1)
+Other Projects
+
+[List any other notable projects, like web scraping, API work, etc.]
+--->
+## Contact
+
+Feel free to reach out for collaborations or if you have questions about my work!
+
++ Email: nicholas.boswell16@gmail.com
++ [LinkedIn](https://www.linkedin.com/in/nick-boswell)
++ [CodeWars](https://www.codewars.com/users/nickboswell)
++ [StackOverflow](https://stackoverflow.com/users/20619360/nick-boswell)
++ [UiPath Community Forum](https://forum.uipath.com/u/nickboswell/summary)
+
+Let's Connect!
+
+<!---
 - 👋 Hi, I’m Nick Boswell (@nboswell216)
 - 🌱 I’m currently learning all types of full stack development languages and processes so that I can advance my career and also promote my own brand - Optimistic Prominence (https://github.com/orgs/Optimistic-Prominence). After successfully promoting my brand, I have an exciting app idea that I am looking forward to bringing to fruition.
 - 📫 Look on the Optimistic Prominence contact page on how to contact me!
