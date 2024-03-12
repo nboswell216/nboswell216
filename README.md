@@ -13,6 +13,13 @@ Each project has its own repository with a detailed README explaining goals, met
 Project READMEs follow consistent formatting for easy scanning.
 
 ## Key Projects
+
+### [Simon Game](https://github.com/nboswell216/Simon_Game)
+This project was created with a focus on practicing intermediate frontend development concepts. Key areas of practice include:\
+DOM Manipulation: Modifying page elements in response to game events. Event Handling: Clicks, sound playback, and game logic flow. Basic Game Logic: Pattern creation, win/loss conditions, and scorekeeping.\
+Technologies: HTML, CSS, Javascript
+
+
 Check back often - I am always adding more content!
 <!--
 RPA
@@ -48,6 +55,7 @@ Feel free to reach out for collaborations or if you have questions about my work
 + [CodeWars](https://www.codewars.com/users/nickboswell)
 + [StackOverflow](https://stackoverflow.com/users/20619360/nick-boswell)
 + [UiPath Community Forum](https://forum.uipath.com/u/nickboswell/summary)
++ [DataCamp](https://www.datacamp.com/portfolio/nickboswell)
 
 Let's Connect!
 
