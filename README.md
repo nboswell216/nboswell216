@@ -16,8 +16,8 @@ Project READMEs follow consistent formatting for easy scanning.
 
 ### [Simon Game](https://github.com/nboswell216/Simon_Game)
 This project was created with a focus on practicing intermediate frontend development concepts. Key areas of practice include:\
-DOM Manipulation: Modifying page elements in response to game events.\ 
-Event Handling: Clicks, sound playback, and game logic flow.\ 
+DOM Manipulation: Modifying page elements in response to game events.\
+Event Handling: Clicks, sound playback, and game logic flow.\
 Basic Game Logic: Pattern creation, win/loss conditions, and scorekeeping.\
 Technologies: HTML, CSS, Javascript
 
