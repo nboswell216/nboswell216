@@ -16,11 +16,21 @@ Project READMEs follow consistent formatting for easy scanning.
 
 ### [Simon Game](https://github.com/nboswell216/Simon_Game)
 This project was created with a focus on practicing intermediate frontend development concepts. Key areas of practice include:\
-DOM Manipulation: Modifying page elements in response to game events. Event Handling: Clicks, sound playback, and game logic flow. Basic Game Logic: Pattern creation, win/loss conditions, and scorekeeping.\
+DOM Manipulation: Modifying page elements in response to game events.\ 
+Event Handling: Clicks, sound playback, and game logic flow.\ 
+Basic Game Logic: Pattern creation, win/loss conditions, and scorekeeping.\
 Technologies: HTML, CSS, Javascript
 
+### [Tic-Tac-Toe](https://github.com/nboswell216/my-first-app)
 
-Check back often - I am always adding more content!
+A simple Tic-Tac-Toe game built in React. This project focuses on learning React fundamentals, JavaScript, and Node/NPM while implementing a unique state awareness feature. Players can click on any previous move to rewind the game's state. Key areas of practice include:\
+Understanding basic React components and structure.\
+Managing state and props within React.\
+Implementing state management.\
+Technologies: Javascript, React, Node, NPM
+
+
+### Check back often - I am always adding more content!
 <!--
 RPA
 
