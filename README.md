@@ -14,6 +14,11 @@ Project READMEs follow consistent formatting for easy scanning.
 
 ## Key Projects
 
+### [Netflix Movies Data Analysis](https://github.com/nboswell216/DC_Netlix_notebook)
+
+This repository contains a Jupyter Notebook demonstrating a beginner's exploration of data analysis using Python libraries. The project uses a Netflix movies dataset to analyze movie durations and their potential relationship with release years.\
+Technologies: Python, Jupyter, pandas, matplotlib
+
 ### [Simon Game](https://github.com/nboswell216/Simon_Game)
 This project was created with a focus on practicing intermediate frontend development concepts. Key areas of practice include:\
 DOM Manipulation: Modifying page elements in response to game events.\
