@@ -1,3 +1,5 @@
+<!--![GitHub issue custom search in repo](https://img.shields.io/github/issues-search/electricitymaps/electricitymaps-contrib?query=author%3Anboswell216&style=plastic&label=PR's%20in%20electricitymaps) -->
+
 # Nick Boswell's Portfolio
 Welcome to my GitHub portfolio! Here I showcase my skills in Robotic Process Automation (RPA), Software Development and Data Analysis, demonstrating my passion for solving problems through efficient automation and data-driven insights.
 
